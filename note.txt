@@ -1,0 +1,17 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjoxLCJpYXQiOjE2NzE5NTc4NzgsImV4cCI6MTY3MTk2MTQ3OH0.As1tSEKEqEbWd6Xcqol-PcdFVMrqp-WUMKoePxpBKIE
+
+
+les types de forfait
+
+Pour etudiant 
+   nom         nbre msg         prix
+- classique 1   100             2500
+- classique 2   250             5000
+- classique 3   750             10000
+
+Pour startup
+
+    nom         nbre msg        prix
+- startup 1        1000         15000
+- startup 2        1500         20000
+- startup 3        2000         25000   
